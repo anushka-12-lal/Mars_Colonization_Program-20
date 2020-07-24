@@ -27,4 +27,6 @@ The minimax algorithm proceeds all the way down to the terminal node of the tree
  - Minimax with Alpha Beta Pruning for increased efficiency
  - AI with Reinforcement learning, so AI agent can train by playing with itself and accordingly make an optimum move when playing with the Human Agent
  
+ Project Link: https://jsproject.z23.web.core.windows.net/
+ 
  
